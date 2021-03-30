@@ -1,37 +1,16 @@
 ## Stephanie Hallak
 
-You can use the [editor on GitHub](https://github.com/StephanieHallak/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here are my: [resume](https://docs.google.com/document/d/1sS1wTfhFODQTpPGDiPC3yl-kpENsHfgnLogAhhEcFmc/edit#heading=h.5x0d5h95i329) and [LinkedIn](https://www.linkedin.com/in/stephaniehallak/); to have a recap about my skills and experience background.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Stephanie
 
-### Markdown
+Mechanical Engineer by degree but **Java Developer** _By Passion_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As mechanical engineer degree major, I was more focusing on electro-mechanical, robotics, and automation minor.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I discovered my interest in coding and software developement espacially when learning **C#** during university years. I liked the OOP structure and organization so I started my own path by learning **JAVA** through MOOC and udacity nanodegrees while keeping hands-on projects.
 ```
+During Udacity courses I followed, I was able to develop and complete the following projects:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StephanieHallak/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[cloud Storage](https://github.com/StephanieHallak/cloud-Storage-Spring-Boot.git) application using SpringBoot basics _as bif title_ with more features and details to see in the project.
+```
