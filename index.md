@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Stephanie Hallak
 
 You can use the [editor on GitHub](https://github.com/StephanieHallak/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
