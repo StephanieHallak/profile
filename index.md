@@ -12,10 +12,10 @@ I discovered my interest in coding and software developement espacially when lea
 
 `During Udacity courses I followed, I was able to develop and complete the following projects:`
 
->[cloud Storage](https://github.com/StephanieHallak/cloud-Storage-Spring-Boot.git) application using **SpringBoot basics** _(as big title)_ with more features and details to see in the project.
+>- [Cloud Storage](https://github.com/StephanieHallak/cloud-Storage-Spring-Boot.git) application using **SpringBoot basics** _(as big title)_ with more features and details to see in the project.
 >
->[Ecommerce](https://github.com/StephanieHallak/Security-and-DevOps-Shopping-Cart.git) application using SpringBoot, and espacially implementing **Security and DevOps** features.
+>- [Ecommerce](https://github.com/StephanieHallak/Security-and-DevOps-Shopping-Cart.git) application using SpringBoot, and espacially implementing **Security and DevOps** features.
 >
->[Hotel Reservation](https://github.com/StephanieHallak/Hotel-Reservation-Collections.git) application; a simple pure **Java** programme running on CLI that implements the core notion of _OOP, classes design and Collections_.
+>- [Hotel Reservation](https://github.com/StephanieHallak/Hotel-Reservation-Collections.git) application; a simple pure **Java** programme running on CLI that implements the core notion of _OOP, classes design and Collections_.
 >
 
