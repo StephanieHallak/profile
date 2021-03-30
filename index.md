@@ -10,7 +10,7 @@ As mechanical engineer degree major, I was more focusing on electro-mechanical, 
 
 I discovered my interest in coding and software developement espacially when learning **C#** during university years. I liked the OOP structure and organization so I started my own path by learning **JAVA** through MOOC and udacity nanodegrees while keeping hands-on projects.
 
-#####`During Udacity courses I followed, I was able to develop and complete the following projects:`
+##### During Udacity courses I followed, I was able to develop and complete the following projects:
 
 >- [Cloud Storage](https://github.com/StephanieHallak/cloud-Storage-Spring-Boot.git) application using **SpringBoot basics** _(as big title)_ with more features and details to see in the project.
 >
