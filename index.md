@@ -1,6 +1,6 @@
 ## Stephanie Hallak
 
-Here are my [Resume](https://docs.google.com/document/d/1sS1wTfhFODQTpPGDiPC3yl-kpENsHfgnLogAhhEcFmc/edit#heading=h.5x0d5h95i329) and [LinkedIn](https://www.linkedin.com/in/stephaniehallak/); to have a recap about my skills and experience background.
+Here are my [Resume](https://docs.google.com/document/d/1sS1wTfhFODQTpPGDiPC3yl-kpENsHfgnLogAhhEcFmc/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/stephaniehallak/); to have a recap about my skills and experience background.
 
 ### About Stephanie
 
