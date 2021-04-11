@@ -16,6 +16,7 @@ I discovered my interest in coding and software developement espacially when lea
 >
 >- [Ecommerce](https://github.com/StephanieHallak/Security-and-DevOps-Shopping-Cart.git) application using SpringBoot, and espacially implementing **Security and DevOps** features.
 >
->- [Hotel Reservation](https://github.com/StephanieHallak/Hotel-Reservation-Collections.git) application; a simple pure **Java** programme running on CLI that implements the core notion of _OOP, classes design and Collections_.
+<- [Scheduler service](https://github.com/StephanieHallak/Scheduler-Service.git) application using SpringBoot, that provides a scheduling interface to provide services for pets.
 >
-
+>- [Hotel Reservation](https://github.com/StephanieHallak/Hotel-Reservation-Collections.git) application; a simple pure **Java** programme running on CLI that implements the core notion of _OOP, classes design and Collections_.
+> 
